@@ -1,4 +1,4 @@
-package com.github.kirillkitten.composebasics
+package com.example.composebasics
 
 import org.junit.Test
 
