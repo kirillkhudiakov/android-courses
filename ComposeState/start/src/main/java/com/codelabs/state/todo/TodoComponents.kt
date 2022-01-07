@@ -249,6 +249,6 @@ fun TodoEditButton(
     }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun PreviewIconRow() = IconRow(icon = TodoIcon.Square, onIconChange = {})
